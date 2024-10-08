@@ -1,0 +1,17 @@
+C:\Work\jaebyStudy\Prj\stprj\stprj\bin\Debug\net8.0\stprj.exe
+C:\Work\jaebyStudy\Prj\stprj\stprj\bin\Debug\net8.0\stprj.deps.json
+C:\Work\jaebyStudy\Prj\stprj\stprj\bin\Debug\net8.0\stprj.runtimeconfig.json
+C:\Work\jaebyStudy\Prj\stprj\stprj\bin\Debug\net8.0\stprj.dll
+C:\Work\jaebyStudy\Prj\stprj\stprj\bin\Debug\net8.0\stprj.pdb
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.AssemblyInfoInputs.cache
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.AssemblyInfo.cs
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.csproj.CoreCompileInputs.cache
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.sourcelink.json
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.dll
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\refint\stprj.dll
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.pdb
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.genruntimeconfig.cache
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\ref\stprj.dll
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.Properties.Resources.resources
+C:\Work\jaebyStudy\Prj\stprj\stprj\obj\Debug\net8.0\stprj.csproj.GenerateResource.cache

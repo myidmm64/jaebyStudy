@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "stprj": {
+      "commandName": "Project",
+      "commandLineArgs": "3\r\n0 0 13 40 0 37\r\n0 0 3 0 7 4\r\n1 1 1 1 1 5"
+    }
+  }
+}
