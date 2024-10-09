@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stprj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14299879609193fadecc9627a15f84b2968abf95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59db71bce8b45cf0cac42c738d5a01dde2b2d789")]
 [assembly: System.Reflection.AssemblyProductAttribute("stprj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stprj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
